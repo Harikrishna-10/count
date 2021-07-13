@@ -1,0 +1,13 @@
+.name{
+    text-align: center;
+}
+body{
+    background-color:lightseagreen;
+}
+button{
+    margin: 5px;
+    size: 5px;
+    height: 25px;
+    width: 50px;
+    
+}
